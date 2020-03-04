@@ -1,7 +1,7 @@
 package ru.javaops.masterjava.service.mail;
 
 
-import ru.javaops.web.WebStateException;
+import ru.javaops.masterjava.web.WebStateException;
 
 import javax.jws.WebService;
 import java.util.Set;
